@@ -6,7 +6,7 @@ font-family: greycliff;
 body {
   font-family: greycliff;
   margin: 0;
-  background: #111;
+  background: black;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
